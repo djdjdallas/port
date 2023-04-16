@@ -75,7 +75,8 @@ Open [`index.html`](./index.html) and fill your information, there are 6 section
 
 ```html
 <!-- Title: add your Portfolio websites's title here -->
-<title>[Your name here] | Developer</title>
+<title>Dominick Hill
+ | Developer</title>
 <!-- Add some coding keywords below, Ex: (javascript, yourusername, etc) -->
 <meta name="keywords" content="[username], [name], skill" />
 <!-- Improve your SEO by adding a small descrption of you -->
